@@ -7,6 +7,7 @@ performing the same function, yet not as efficiently as having the Gmail add-on 
 
 I've written this as a follow-on from the Apps Script sample [Expense It!](https://codelabs.developers.google.com/codelabs/gmail-add-ons#0).
 
+Since v0.91 MailReceipts uses Gemini to scan a receipt if it wasn't fully decoded as one of the canned regex-style parsers.
 
 # Acknowledgements
 written by [Carmen DiMichele](https://dimichelec.wixsite.com/carmendimichele) 
